@@ -7,15 +7,17 @@
     "@types/node": "12.7.1",
     "@types/react": "16.9.1",
     "@types/react-dom": "16.8.5",
+    "@types/react-select": "^3.0.2",
     "echarts": "^4.2.1",
     "echarts-for-react": "2.0.14",
     "firebase": "^6.3.5",
     "lodash": "^4.17.15",
+    "lodash.template": "4.5.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.0.1",
-    "typescript": "3.5.3",
-    "lodash.template": "4.5.0"
+    "react-select": "^3.0.4",
+    "typescript": "3.5.3"
   },
   "scripts": {
     "start": "react-scripts start",
