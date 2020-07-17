@@ -11,7 +11,7 @@
     "echarts": "^4.2.1",
     "echarts-for-react": "2.0.14",
     "firebase": "^6.3.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lodash.template": "4.5.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
